@@ -72,6 +72,6 @@ function removeFromCart(item) {
 
 function placeOrder(cardNumber) {
   if(cardNumber){
-    console.log(`Your total cost is $71, which will be carged to the card $(cardNumber`)
+    console.log(`Your total cost is $71, which will be carged to the card ${cardNumber}`)
   }
 }
