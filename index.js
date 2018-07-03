@@ -76,5 +76,7 @@ function placeOrder(cardNumber) {
     for (var i = 0; i > 0; i--){
       cart.pop();
     }
+  }else{
+    
   }
 }
