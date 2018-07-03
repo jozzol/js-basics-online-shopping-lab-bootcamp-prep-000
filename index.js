@@ -74,7 +74,7 @@ function placeOrder(cardNumber) {
   if(cardNumber){
     console.log(`Your total cost is $71, which will be carged to the card ${cardNumber}.`)
     for (var i = 0; i > 0; i--){
-      cart.pop;
+      cart.pop();
       
     }
   }
